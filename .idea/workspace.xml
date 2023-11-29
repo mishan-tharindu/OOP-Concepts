@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f97b23-a52e-4478-8c4e-64af88641428" name="Changes" comment="Projetct Start">
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+    <list default="true" id="d4f97b23-a52e-4478-8c4e-64af88641428" name="Changes" comment="Create Cat Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,22 +65,20 @@
       <option name="project" value="LOCAL" />
       <updated>1701266707796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create Cat Class">
+      <option name="closed" value="true" />
+      <created>1701267009469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267009469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projetct Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projetct Start" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Create Cat Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Cat Class" />
   </component>
 </project>
